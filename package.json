@@ -1,7 +1,7 @@
 {
-	"name": "obsidian-sample-plugin",
+	"name": "comprehending-obsidian",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "This is an obsidian plugin that's designed to use AI to analyse your notes",
 	"main": "main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
